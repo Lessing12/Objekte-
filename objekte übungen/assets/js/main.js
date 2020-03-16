@@ -31,4 +31,4 @@ let europaeischeUnion = {
 
 }
 
-
+console.log(europaeischeUnion);
