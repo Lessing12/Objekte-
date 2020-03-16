@@ -32,3 +32,10 @@ let europaeischeUnion = {
 }
 
 console.log(europaeischeUnion);
+
+let BeNeLuxUnion = {
+    Belgien: "BE",
+    Niederlande: "NE",
+    Luxemburg: "LU",
+}
+console.log(BeNeLuxUnion);
